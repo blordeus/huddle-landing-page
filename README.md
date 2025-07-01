@@ -1,0 +1,72 @@
+# Huddle Landing Page with Alternating Feature Blocks
+
+This is a frontend solution to the [Huddle Landing Page Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) on Frontend Mentor. The goal was to build a responsive and accessible landing page that matches the provided design as closely as possible.
+
+## 🔗 Live Site
+
+[View the live project here](https://your-deployment-url.com)
+
+## 📸 Screenshots
+
+![Desktop Screenshot](./screenshots/desktop-preview.png)
+![Mobile Screenshot](./screenshots/mobile-preview.png)
+
+## ⚙️ Built With
+
+- Semantic HTML5 markup
+- [Pico.css](https://picocss.com/) for minimalist styling
+- Custom CSS for layout control
+- Mobile-first responsive design
+- Flexbox for alignment and layout
+- Optimized images and alt tags for accessibility
+
+## 📁 Folder Structure
+
+```
+├── index.html
+├── style.css
+├── /images
+├── /assets
+└── /screenshots
+```
+
+## 🚀 Features
+
+- Fully responsive layout (mobile, tablet, and desktop)
+- Clean and accessible HTML/CSS
+- Alternating feature sections
+- Consistent spacing and typography
+- Custom styling overrides for Pico.css
+- Optimized images and alt text
+
+## 🧠 What I Learned
+
+- How to implement alternating sections using flexbox
+- Working with Pico.css and customizing styles when needed
+- Managing consistent vertical spacing across sections
+- Mobile-first approach and debugging with browser tools
+
+## 📈 Optimizations
+
+- Used semantic tags for better accessibility
+- Implemented responsive typography and spacing
+- Ensured consistent image sizing and layout balance
+
+## 🛠️ Installation
+
+To run locally:
+
+```bash
+git clone https://github.com/blordeus/huddle-landing-page.git
+cd huddle-landing-page
+open index.html
+```
+
+## 👨‍💻 Author
+
+- GitHub: [@blordeus](https://github.com/blordeus)
+- Portfolio: [www.bryanlordeus.com](https://www.bryanlordeus.com)
+
+## 🙌 Acknowledgments
+
+Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for the challenge and community support.
