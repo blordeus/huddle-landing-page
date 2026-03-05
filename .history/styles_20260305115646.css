@@ -123,7 +123,7 @@
       box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
     }
 
-    .feature:last-child {
+    .container .feature:last-child {
       margin-bottom: 0;
     }
       
@@ -372,7 +372,7 @@
         gap: 30px;
       }
 
-      .footer-links-secondary {
+      .footer-links:nth-of-type(3) {
         margin-top: -10px;
       }
 
